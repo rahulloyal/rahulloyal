@@ -1,5 +1,5 @@
 # 💫 About Me:
-CEO & Founder of Shruhh Music<br>Web Developer & UI/UX Designer<br>Focused on AI & Digital Innovation<br>Creating Scalable Tech Products<br>
+CEO & Founder of Shruhh Inc<br>Web Developer & UI/UX Designer<br>Focused on AI & Digital Innovation<br>Creating Scalable Tech Products<br>
 
 
 ## 🌐 Socials:
