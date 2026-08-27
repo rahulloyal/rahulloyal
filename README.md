@@ -20,7 +20,6 @@
 * 💡 **What I Do:** Web Development, UI/UX Design, and Full-Stack Product Engineering
 * 🤖 **Tech Focus:** Artificial Intelligence integration, cloud architecture, and cross-platform mobile app development
 * 🎯 **Goal:** Building intuitive, high-performance, and scalable digital products for global users
-* 💬 **Ask me about:** React, Next.js, Node.js, Flutter, Python, and Product Strategy
 
 ---
 
